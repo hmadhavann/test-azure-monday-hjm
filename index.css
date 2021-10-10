@@ -1,0 +1,30 @@
+h1{color: blueviolet;}
+h1{text-align: center;}
+h3{color: cadetblue;}
+p{text-align: center;}
+h3{text-align: left;}
+p{color:black;}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2{text-align: right;}
+h2{color: brown;}
+h4{text-align: center;}
+h4{color: darkblue;}
+li{text-align: center;}
+li{color: black;}
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: center;
+    font-style: normal;
+    background:honeydew;
+}
